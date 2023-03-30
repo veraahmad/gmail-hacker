@@ -6,7 +6,7 @@ apt-get install python3
 dnf install python3
 
 
-ython3--version
+python3--version
 
 
 get clone
