@@ -9,6 +9,9 @@ dnf install python3
 ython3--version
 
 
+get clone
+
+
  
 
 
