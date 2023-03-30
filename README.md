@@ -6,6 +6,9 @@ apt-get install python3
 dnf install python3
 
 
+ython3--version
+
+
  
 
 
