@@ -18,6 +18,9 @@ get clonehttps://github.com/veraahmad/gmail-hacker.git
 cd hack-gmail 
 
 
+python3 hack-gmail.py
+
+
  
 
 
